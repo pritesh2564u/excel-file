@@ -8,15 +8,10 @@ The **Excel File Validator** is a web application designed to validate and store
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
-- Upload multiple Excel files.
+- Upload two Excel files.
 - Validate data against predefined schemas.
 - Store valid data in a MongoDB database.
 - Display validated data in a tabular format.
@@ -68,7 +63,7 @@ The **Excel File Validator** is a web application designed to validate and store
 
     ```env
     PORT=5000
-    MONGODB_URI=your_mongodb_connection_string
+    MONGO_URI=your_mongodb_connection_string
     ```
 
 3. Start the server:
