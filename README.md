@@ -12,9 +12,10 @@ The **Excel File Validator** is a web application designed to validate and store
 ## Features
 
 - Upload two Excel files.
+- First file is for company model and second file is contact model, sample files are given in the this repository.
 - Validate data against predefined schemas.
 - Store valid data in a MongoDB database.
-- Display validated data in a tabular format.
+- Display validated data in a tabular format. 
 
 ## Prerequisites
 
