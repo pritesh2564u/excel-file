@@ -8,6 +8,7 @@ The **Excel File Validator** is a web application designed to validate and store
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#Demo)
 
 ## Features
 
@@ -88,3 +89,10 @@ The **Excel File Validator** is a web application designed to validate and store
     ```
 
 3. Open your browser and go to `http://localhost:5173` to access the application.
+
+## Demo
+
+![Upload two files example](frontend/public/Screenshot%202024-07-01%20195605.png)
+![Details saved in mongodb](frontend/public/Screenshot%202024-07-01%20195543.png)
+![Details saved in mongodb](frontend/public/Screenshot%202024-07-01%20195531.png)
+
